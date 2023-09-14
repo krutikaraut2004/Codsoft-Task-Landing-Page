@@ -61,6 +61,10 @@ header{
     display: flex;
 }
 
+.logo p span{
+    color: #147a4e;
+    font-style: font-family: "Poppins", sans-serif;
+}
 
 .navbar a{
     font-size: 1rem;
